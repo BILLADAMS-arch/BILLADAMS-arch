@@ -39,8 +39,4 @@ I'm a Junior Software Engineer with a background in Civil Engineering, currently
 - ❓ [Quiz Game API](https://github.com/BILLADAMS-arch/quiz-game) – Flask backend for dynamic quiz scoring  
 - ✅ [TaskTrackr](https://github.com/BILLADAMS-arch/tasktrackr) – Simple and clean to-do app  
 
----
 
-## 📊 GitHub Stats
-
-![Billadams' GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLADAMS-arch&show_icons=true&theme=radical)
