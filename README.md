@@ -11,7 +11,7 @@ I'm a Junior Software Engineer with a background in Civil Engineering, currently
 ---
 
 ## 🛠 Tech Stack
-
+```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat&logo=react&logoColor=black)
@@ -30,13 +30,9 @@ I'm a Junior Software Engineer with a background in Civil Engineering, currently
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
----
+```
+## Thank you for visiting my profile!
 
-## 🚀 Featured Projects
 
-- 🧵 [StyleFlex](https://github.com/BILLADAMS-arch/styleflex) – Fashion Ordering App (React + Flask + JWT)  
-- 💰 [SmartBudget](https://github.com/BILLADAMS-arch/smartbudget) – AI-Powered Expense Tracker  
-- ❓ [Quiz Game API](https://github.com/BILLADAMS-arch/quiz-game) – Flask backend for dynamic quiz scoring  
-- ✅ [TaskTrackr](https://github.com/BILLADAMS-arch/tasktrackr) – Simple and clean to-do app  
 
 
