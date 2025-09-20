@@ -1,8 +1,7 @@
 # Hi there, I'm Billadams 👋
 
-I'm a Junior Software Engineer with a background in Civil Engineering, currently completing the Software Engineering program at Moringa School (Full Stack – React & Flask).
+I'm a Junior Software Engineer with a background in Civil Engineering..
 
-- 🔭 I’m currently working on my Capstone: **StyleFlex – a custom fashion ordering app**
 - 🌱 I'm improving my skills in API development, authentication, and full-stack deployments
 - 💬 Ask me about React, Flask, Python, Tailwind, and Civil Engineering logic!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/billadams-nyamweno) | nyamweno.billadams@gmail.com
