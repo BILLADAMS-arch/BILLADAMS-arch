@@ -1,11 +1,11 @@
 # Hi there, I'm Billadams 👋
 
-I'm a Junior Software Engineer with a background in Civil Engineering..
+I'm a junior Software Engineer transitioning from Civil Engineering, passionate about building scalable full-stack applications that solve real-world problems...
 
 - 🌱 I'm improving my skills in API development, authentication, and full-stack deployments
-- 💬 Ask me about React, Flask, Python, Tailwind, and Civil Engineering logic!
+- 💬 I love discussing React, Flask, Python, Tailwind, and even Civil Engineering logic applied to code!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/billadams-nyamweno) | nyamweno.billadams@gmail.com
-- ⚡ Fun fact: I bring an engineer’s precision from civil projects into my code structure!
+- ⚡ Fun fact: I bring an engineer’s precision from civil projects into my code—and teamwork from construction sites into software collaboration.
 
 ---
 
