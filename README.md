@@ -5,7 +5,7 @@ I'm a junior Software Engineer transitioning from Civil Engineering, passionate 
 - 🌱 I'm improving my skills in API development, authentication, and full-stack deployments
 - 💬 I love discussing React, Flask, Python, Tailwind, and even Civil Engineering logic applied to code!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/billadams-nyamweno) | nyamweno.billadams@gmail.com
-- ⚡ Fun fact: I bring an engineer’s precision from civil projects into my code—and teamwork from construction sites into software collaboration.
+- ⚡ Fun fact: I bring an engineer’s precision from civil projects into my code and teamwork from construction sites into software collaboration.
 
 ---
 
